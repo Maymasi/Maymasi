@@ -57,7 +57,7 @@
 
 ## 📫 Contact  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-OmaimaSIAF-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omaima-siaf-b636132aa/)  
-[![Gmail](https://img.shields.io/badge/Email-omaima@example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siafomaima5@gmail.com)  
+[![Gmail](https://img.shields.io/badge/siafomaima5a@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siafomaima5@gmail.com)  
 
 ---
 
