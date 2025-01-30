@@ -28,9 +28,11 @@
 
 </div>  
 
+---
+
 ### 📊 GitHub Stats  
 ![Omaima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maymasi&show_icons=true&theme=radical)
-___
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maymasi&layout=compact&theme=radical)
 
 
