@@ -1,65 +1,76 @@
-# 👋 Hello, I'm Omaima SIAF!  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7B42C&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Omaima!+👩‍💻;Full+Stack+Developer+%7C+AI+Enthusiast;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-
----
-
-## 🔥 About Me  
-🎓 Étudiante ingénieure en **Génie Informatique & IA** (ENSA Safi)  
-💡 Passionnée par le **développement Full Stack & l'IA**  
-🚀 Toujours prête à apprendre & relever de nouveaux défis  
-
----
-
-## 🛠️ Technologies & Outils  
+# 🌑 Welcome to My Dark Domain  
 
 <div align="center">
-  <!-- Langages -->
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp" alt="Langages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=ff6f00&center=true&vCenter=true&width=600&lines=Hello%2C+I+am+Omaima+SIAF+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Enthusiast;Code+with+Creativity+%26+Darkness;Welcome+to+my+GitHub!"/>
+</div>
 
-  <!-- Frameworks & Librairies -->
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mui" alt="Frameworks" />
+---
 
-  <!-- Bases de données -->
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" />
+## 🖤 Who am I?  
 
-  <!-- Outils -->
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,canva" alt="Outils" />
+```yaml
+👩‍💻 Name: Omaima SIAF
+🎓 Engineering Student: ENSA Safi
+💡 Passion: Full Stack Dev | AI
+🚀 Motto: Dark mode, bright ideas!
+```
 
-</div>  
+---
+
+## 🛠️ Tech Stack ⚔️  
+
+<div align="center">
+  <table>
+    <tr>
+      <td><b>Languages</b></td>
+      <td><img src="https://skillicons.dev/icons?i=python,html,css,js,c,cpp,cs,r"/></td>
+    </tr>
+    <tr>
+      <td><b>Frameworks</b></td>
+      <td><img src="https://skillicons.dev/icons?i=react,nodejs,materialui,flask,sklearn"/></td>
+    </tr>
+    <tr>
+      <td><b>Databases</b></td>
+      <td><img src="https://skillicons.dev/icons?i=mysql,mongodb"/></td>
+    </tr>
+    <tr>
+      <td><b>Tools</b></td>
+      <td><img src="https://skillicons.dev/icons?i=vscode,git,github,postman,visualstudio"/></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ### 📊 GitHub Stats  
-![Omaima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maymasi&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maymasi&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maymasi&show_icons=true&theme=dracula" width="400px"/>
 
-
- 
-
----
-
-## 🚀 Projets  
-🔹 [🔬 Prédiction des maladies](https://github.com/Maymasi/Disease-Prediction-Project) – **Projet IA/Dev** (Python, React, Node.js)  
-🔹 [🛍️ E-commerce Game Store]() – **Site web** (HTML, CSS, JS, PHP)  
-🔹 [💧 Aquageo]() – **Application de gestion des ressources en eau** (React, Node.js, MongoDB, Python)
-
-
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maymasi&layout=compact&theme=dracula)
+</div>
 
 ---
 
-## 💼 Expériences  
-🔹 **Stage chez BC Skills** – Développement Web & IA  
+## 🚀 Featured Projects  
+
+- 🧬 [**Disease Prediction AI**](https://github.com/Maymasi/Disease-Prediction-Project) – AI-powered prediction system (Python, React, Node.js)  
+- 🎮 [**E-commerce Game Store**](#) – Online game store (HTML, CSS, JS, PHP)  
+- 🌊 [**Aquageo**](#) – Water resource management app (React, Node.js, MongoDB, Python)  
 
 ---
 
+## 💼 Professional Experience  
 
-## 📫 Contact  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-OmaimaSIAF-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omaima-siaf-b636132aa/)  
-[![Gmail](https://img.shields.io/badge/siafomaima5a@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siafomaima5@gmail.com)  
+🔹 **Internship @ BC Skills** – Web Development  
+
+---
+## 📩 Contact  
+
+📧 Email: siafomaima5@gmail.com  
+💼 LinkedIn: [Omaima Siaf](https://www.linkedin.com/in/omaima-siaf-b636132aa/)   
 
 ---
 
-⭐ **Merci d’avoir visité mon profil !** 🚀
-
+> _"Embrace the darkness, code with brilliance."_ ✨
