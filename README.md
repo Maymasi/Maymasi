@@ -2,7 +2,7 @@
 # 🌑 Welcome to My Dark Domain  
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=ff6f00&center=true&vCenter=true&width=600&lines=Hello%2C+I+am+Omaima+SIAF+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Enthusiast;Code+with+Creativity+%26+Darkness;Welcome+to+my+GitHub!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=ff6f00&center=true&vCenter=true&width=600&lines=Hello%2C+I+am+Omaima+SIAF+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Enthusiast;Code+with+Creativity+%26;Welcome+to+my+GitHub!"/>
 </div>
 
 ---
