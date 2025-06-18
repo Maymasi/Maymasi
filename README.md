@@ -43,16 +43,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maymasi&show_icons=true&theme=dracula" width="400px"/>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maymasi&layout=compact&theme=dracula)
-</div>
-
----
-
 ## 🚀 Featured Projects  
 
 - 🧬 [**Disease Prediction AI**](https://github.com/Maymasi/Disease-Prediction-Project) – AI-powered prediction system (Python, React, Node.js)  
