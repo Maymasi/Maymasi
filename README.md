@@ -24,11 +24,11 @@
   <table>
     <tr>
       <td><b>Languages</b></td>
-      <td><img src="https://skillicons.dev/icons?i=python,html,css,js,c,cpp,cs,r"/></td>
+      <td><img src="https://skillicons.dev/icons?i=python,html,css,js,ts,c,cpp,cs,r"/></td>
     </tr>
     <tr>
       <td><b>Frameworks</b></td>
-      <td><img src="https://skillicons.dev/icons?i=react,redux,nodejs,materialui,flask,sklearn,dotnet"/></td>
+      <td><img src="https://skillicons.dev/icons?i=react,angular,redux,nodejs,materialui,flask,sklearn,dotnet"/></td>
     </tr>
     <tr>
       <td><b>Databases</b></td>
