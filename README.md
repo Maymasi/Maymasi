@@ -28,7 +28,7 @@
     </tr>
     <tr>
       <td><b>Frameworks</b></td>
-      <td><img src="https://skillicons.dev/icons?i=react,angular,redux,nodejs,materialui,flask,sklearn,dotnet"/></td>
+      <td><img src="https://skillicons.dev/icons?i=react,angular,nodejs,materialui,flask,sklearn,dotnet"/></td>
     </tr>
     <tr>
       <td><b>Databases</b></td>
